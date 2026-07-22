@@ -37,8 +37,16 @@ i.e.) create a new article
  $ podman compose run --rm zenn npx zenn new:article
 ```
 
-My own example
+#### My own template to create a new article
+
+**Create a new article**
 ```
-$ npx zenn new:article --slug hogehuga --title "awful document"
+$ podman compose run --rm zenn npx zenn new:article --slug hogehuga --title "awful document"
+```
+
+**lint (using list subcommand as a alternative)**
+(There isn't dedicated lint subcommand. list subcommand cat be used as a alternative for lint for all articles/books)
+```
+$ podman compose run --rm zenn npx zenn list:articles
 ```
 
