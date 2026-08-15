@@ -393,9 +393,9 @@ fe8f494 add world.txt
 40ca6cc first commit
 ```
 
-<!-- # 次回記事 -->
+# 次回記事
 
-<!-- 続編として以下の記事を作成しました． -->
-<!-- `git merge`相当の処理を行うことを主題にしています． -->
-<!-- @[card](https://zenn.dev/khwarizmi6514/articles/20260810-git-manual-merge) -->
+続編として以下の記事を作成しました．
+`git merge`相当の処理を行うことを主題にしています．
+@[card](https://zenn.dev/khwarizmi6514/articles/20260810-git-manual-merge)
 
