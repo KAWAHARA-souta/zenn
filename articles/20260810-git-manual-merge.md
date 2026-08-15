@@ -321,9 +321,9 @@ feature-x.txt  hello.txt  world.txt
 これでindexやカレントディレクトリのつじつま合わせも完了しましたので，`git merge`相当の処理は終了できたことになります．
 
 
-<!-- # 次回記事 -->
+# 次回記事
 
-<!-- 続編として以下の記事を作成しました． -->
-<!-- `Reference/Refs`を扱っています． -->
-<!-- @[card](https://zenn.dev/khwarizmi6514/articles/20260810-git-myown-refs) -->
+続編として以下の記事を作成しました．
+`Reference/Refs`を扱っています．
+@[card](https://zenn.dev/khwarizmi6514/articles/20260810-git-myown-refs)
 
