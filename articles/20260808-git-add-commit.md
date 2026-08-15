@@ -22,8 +22,10 @@ git-core-doc-2.52.0-1.fc43.noarch
 # Gitオブジェクト
 
 本章の説明は，[Pro Git book](https://git-scm.com/book/en/v2)の10章`Git Internals`の冒頭以下2節
+
  - [10.1 Git Internals - Plumbing and Porcelain](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain)
  - [10.2 Git Internals - Git Objects](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
+
 を参照し，必要な事項のみを簡単に説明しなおしたものとなっています．
 また，説明の中で出てくるgit固有の用語については，その初出の際に可能な限り[gitglossary](https://git-scm.com/docs/gitglossary)のリンクをつけるように努力しています．
 なお，gitglossaryは`git help gitglossary`と実行すると手元の環境で参照できます．(fedoraでは`git-core-doc`パッケージで配布されている)
